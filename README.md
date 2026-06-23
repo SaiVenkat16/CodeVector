@@ -166,4 +166,4 @@ I leveraged AI as a collaborative pair programmer to optimize the architecture a
 
 ## Live URL
 
-_[Will be filled in after deploying on Vercel]_
+https://code-vector-iota.vercel.app/
